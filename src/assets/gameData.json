@@ -1,0 +1,1318 @@
+{
+  "gameField": {
+    "grid": {
+      "cells": [
+        [
+          {
+            "kind": "t",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "t",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "t",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "t",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "t",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "t",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "d",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          }
+        ],
+        [
+          {
+            "kind": "t",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "t",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "n",
+            "value": ""
+          },
+          {
+            "kind": "t",
+            "value": ""
+          }
+        ]
+      ]
+    },
+    "pile": {
+      "tilepile": [
+        {
+          "value": "="
+        },
+        {
+          "value": "-"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "/"
+        },
+        {
+          "value": "4"
+        },
+        {
+          "value": "/"
+        },
+        {
+          "value": "-"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "7"
+        },
+        {
+          "value": "2"
+        },
+        {
+          "value": "1"
+        },
+        {
+          "value": "5"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "3"
+        },
+        {
+          "value": "8"
+        },
+        {
+          "value": "-"
+        },
+        {
+          "value": "*"
+        },
+        {
+          "value": "*"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "9"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "-"
+        },
+        {
+          "value": "8"
+        },
+        {
+          "value": "9"
+        },
+        {
+          "value": "+"
+        },
+        {
+          "value": "3"
+        },
+        {
+          "value": "2"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "+"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "6"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "5"
+        },
+        {
+          "value": "*"
+        },
+        {
+          "value": "6"
+        },
+        {
+          "value": "2"
+        },
+        {
+          "value": "1"
+        },
+        {
+          "value": "7"
+        },
+        {
+          "value": "9"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "6"
+        },
+        {
+          "value": "7"
+        },
+        {
+          "value": "1"
+        },
+        {
+          "value": "9"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "6"
+        },
+        {
+          "value": "2"
+        },
+        {
+          "value": "8"
+        },
+        {
+          "value": "8"
+        },
+        {
+          "value": "+"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "6"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "5"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "+"
+        },
+        {
+          "value": "*"
+        },
+        {
+          "value": "8"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "7"
+        },
+        {
+          "value": "*"
+        },
+        {
+          "value": "5"
+        },
+        {
+          "value": "3"
+        },
+        {
+          "value": "-"
+        },
+        {
+          "value": "3"
+        },
+        {
+          "value": "/"
+        },
+        {
+          "value": "3"
+        },
+        {
+          "value": "6"
+        },
+        {
+          "value": "4"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "5"
+        },
+        {
+          "value": "4"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "9"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "7"
+        },
+        {
+          "value": "+"
+        },
+        {
+          "value": "/"
+        },
+        {
+          "value": "+"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "*"
+        },
+        {
+          "value": "+"
+        },
+        {
+          "value": "9"
+        },
+        {
+          "value": "-"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "6"
+        },
+        {
+          "value": "2"
+        },
+        {
+          "value": "2"
+        },
+        {
+          "value": "0"
+        },
+        {
+          "value": "2"
+        },
+        {
+          "value": "1"
+        },
+        {
+          "value": "/"
+        },
+        {
+          "value": "="
+        },
+        {
+          "value": "9"
+        },
+        {
+          "value": "-"
+        },
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "playerList": {
+      "A": {
+        "name": "A",
+        "hand": [
+          {
+            "value": "+"
+          },
+          {
+            "value": "5"
+          },
+          {
+            "value": "4"
+          },
+          {
+            "value": "1"
+          },
+          {
+            "value": "5"
+          },
+          {
+            "value": "8"
+          },
+          {
+            "value": "="
+          },
+          {
+            "value": "/"
+          },
+          {
+            "value": "4"
+          },
+          {
+            "value": "="
+          }
+        ],
+        "point": 0
+      },
+      "B": {
+        "name": "B",
+        "hand": [
+          {
+            "value": "="
+          },
+          {
+            "value": "8"
+          },
+          {
+            "value": "4"
+          },
+          {
+            "value": "7"
+          },
+          {
+            "value": "3"
+          },
+          {
+            "value": "4"
+          },
+          {
+            "value": "1"
+          },
+          {
+            "value": "3"
+          },
+          {
+            "value": "-"
+          },
+          {
+            "value": "7"
+          }
+        ],
+        "point": 0
+      }
+    }
+  },
+  "status": "pA",
+  "currentsum": 0
+}

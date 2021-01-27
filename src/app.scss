@@ -1,0 +1,8 @@
+@import "~bulma/bulma";
+
+$fa-font-path: "~font-awesome/fonts";
+@import "scss/fontawesome.scss";
+
+[v-cloak] {
+  display: none;
+}
